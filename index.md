@@ -7,5 +7,7 @@ Cosmic snowballs of frozen gases, rock and dust
 ```
 Javascript
 var x = 100;
-
 ```
+- [x] Turned on windows
+- [x] Seen windows BSOD
+- [ ] Issue fixed
